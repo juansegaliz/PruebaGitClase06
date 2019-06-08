@@ -10,6 +10,7 @@ namespace PruebaGitClase06
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Curso");
         }
     }
 }
